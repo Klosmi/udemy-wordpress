@@ -10,5 +10,3 @@ echo 'functions file';
 
 
 // Hoooks
-
-?>
